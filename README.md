@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tyty6365
+- 👋 Hi, I’m @tyty6365...also Tyler :)
 - 👀 I’m interested in coding in different langauges such as java, python, C++, C, and C#
 - 🌱 I’m currently learning advance data structures and discrete data structures 
 - 📫 How to reach me ... my email is tyscott2021@gmail.com or tscot86@lsu.edu
